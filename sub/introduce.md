@@ -4,7 +4,8 @@
 
 winXray  最新版支持直接使用 github 网址作为订阅链接。例如，我们在浏览器里访问 github项目文件的地址是这样的： [https://github.com/winXray/winXray/blob/master/sub/sample.json](./sample.json) 我们直接复制前面的链接，然后在 winXray 中点击 **「批量导入链接」** 就可以导入里面的服务器配置了。
 
-winXray可以兼容以下格式的github文件地址( 支持省略域或并以斜杆开头的地址 ）：  
+winXray可以兼容以下格式的github文件地址( 支持省略域名
+并以斜杆开头的地址 ）：  
 https://github.com/winXray/winXray/blob/master/sub/sample.json  
 [/winXray/blob/master/sub/sample.json](./sample.json)  
 https://github.com/winXray/winXray/raw/master/sub/sample.json  
